@@ -1,4 +1,4 @@
-package rpc
+package rpcp
 
 import (
 	"encoding/gob"
